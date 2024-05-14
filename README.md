@@ -5,9 +5,6 @@ I'm a passionate software developer with a knack for crafting user-centric appli
 With a Bachelor's Degree in Computer Science and Engineering and hands-on experience in full-stack development, I thrive in dynamic environments that embrace innovation. Whether it's designing intuitive UIs or optimizing backend functionalities, I love diving into complex problems and crafting elegant solutions.
 
 
-![teena496's Stats](https://github-readme-stats.vercel.app/api?username=teena496&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,materialui,dotnet)](https://skillicons.dev)
 
