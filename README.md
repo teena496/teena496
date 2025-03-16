@@ -6,14 +6,15 @@ With a Bachelor's Degree in Computer Science and Engineering and hands-on experi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,materialui,dotnet,bootstrap,firebase,git,github,gitlab,mongodb,nextjs,visualstudio,vite,vscode,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,py,html,css,materialui,dotnet,bootstrap,firebase,git,github,gitlab,mongodb,nextjs,visualstudio,vite,vscode,mysql,sqlite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-1. Becoming a Full Stack Developer: Diving into C# and .NET Core frameworks to master backend development, while also delving into design patterns to create scalable and maintainable applications.
-2. Data Structures and Algorithms: Strengthening my foundational knowledge in data structures and algorithms to optimize code efficiency and problem-solving abilities.
-3. Python: Exploring Python's versatility and power in data analysis, machine learning, and web development to broaden my skill set.
-4. Professional Growth: Actively seeking opportunities for learning and development, whether through courses, workshops, or networking with industry peers.
+1. Full Stack Development: Expanding my expertise in backend development with C# and .NET Core frameworks while mastering design patterns for building scalable and maintainable applications.
+2. Data Analysis: Learning data analysis techniques and tools, including Python and libraries like Pandas, NumPy, and yFinance, along with SQLite for database management.
+3. Data Visualization: Exploring advanced Excel and IBM Cognos to create insightful visualizations and reports.
+4. Data Structures and Algorithms: Strengthening problem-solving skills by refining my understanding of data structures and algorithms to write efficient, optimized code.
+5. Professional Growth: Continuously seeking learning opportunities through courses, workshops, and networking with industry peers to stay ahead in the tech landscape.
  
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
