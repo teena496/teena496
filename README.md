@@ -1,8 +1,8 @@
 ### Hi there 👋  I'm Teena!
 
-I'm a passionate software developer with a knack for crafting user-centric applications. My journey in the tech world has been a blend of creativity and precision, where I've honed my skills in JavaScript, React.js, C#/.NET Core, and more.
+I'm a passionate software developer with a strong foundation in full-stack development and a growing interest in data analysis. My journey in tech has been a balance of creativity and precision, where I've honed my skills in JavaScript, React.js, C#/.NET Core, and Python for data-driven applications.
 
-With a Bachelor's Degree in Computer Science and Engineering and hands-on experience in full-stack development, I thrive in dynamic environments that embrace innovation. Whether it's designing intuitive UIs or optimizing backend functionalities, I love diving into complex problems and crafting elegant solutions.
+With a Bachelor's Degree in Computer Science and Engineering and hands-on experience in building scalable applications, I thrive in dynamic environments that embrace innovation. Whether it's designing intuitive UIs, optimizing backend functionalities, or leveraging data for insights, I enjoy solving complex problems and crafting elegant solutions.
 
 
 ## Tech Stack
