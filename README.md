@@ -6,6 +6,7 @@ With a Bachelor's Degree in Computer Science and Engineering and hands-on experi
 
 
 ## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,materialui,dotnet)](https://skillicons.dev)
 [![My Skills]([[https://skillicons.dev/icons?i=react,js,html,css,materialui,dotnet](https://skillicons.dev/icons?i=react,js,html,css,materialui,dotnet,bootstrap,firebase,git,github,gitlab,mongodb,nextjs,visualstudio,vite,vscode,mysql,sqlite)])(https://skillicons.dev)
 
 ## 🌱 Currently Exploring
