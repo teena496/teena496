@@ -1,8 +1,10 @@
 ### Hi there 👋  I'm Teena!
 
-I'm a passionate software developer with a strong foundation in full-stack development and a growing interest in data analysis. My journey in tech has been a balance of creativity and precision, where I've honed my skills in JavaScript, React.js, C#/.NET Core, and Python for data-driven applications.
+I'm a passionate software developer with a strong foundation in full-stack development and a growing interest in cloud technologies. My journey in tech blends creativity with precision, where I've developed skills in JavaScript, React.js, C#/.NET Core, and Python for building scalable, data-driven applications.
 
-With a Bachelor's Degree in Computer Science and Engineering and hands-on experience in building scalable applications, I thrive in dynamic environments that embrace innovation. Whether it's designing intuitive UIs, optimizing backend functionalities, or leveraging data for insights, I enjoy solving complex problems and crafting elegant solutions.
+Currently, I'm contributing to a volunteer project using Angular, .NET 9 with Entity Framework, and PostgreSQL—further sharpening my skills in modern front-end and back-end technologies. I'm also actively exploring Azure services, particularly Azure Blob Storage, to better understand scalable cloud-based file handling and storage solutions.
+
+With a Bachelor's Degree in Computer Science and Engineering and hands-on experience in designing intuitive UIs, optimizing backend workflows, and leveraging data for insights, I thrive in dynamic environments that value innovation and problem-solving.
 
 
 ## Tech Stack
@@ -10,15 +12,16 @@ With a Bachelor's Degree in Computer Science and Engineering and hands-on experi
 
 ## 🌱 Currently Exploring
 
-1. Full Stack Development: Expanding my expertise in backend development with C# and .NET Core frameworks while mastering design patterns for building scalable and maintainable applications.
-2. Data Analysis: Learning data analysis techniques and tools, including Python and libraries like Pandas, NumPy, and yFinance, along with SQLite for database management.
-3. Data Visualization: Exploring advanced Excel and IBM Cognos to create insightful visualizations and reports.
-4. Data Structures and Algorithms: Strengthening problem-solving skills by refining my understanding of data structures and algorithms to write efficient, optimized code.
-5. Professional Growth: Continuously seeking learning opportunities through courses, workshops, and networking with industry peers to stay ahead in the tech landscape.
- 
+1. Full Stack Development: Advancing my skills in building scalable web applications using Angular (signals-based state), C#/.NET Core 9, PostgreSQL, and Azure services. Currently applying these in a volunteer project with an emphasis on Clean Architecture.
+2. Clean Architecture: Writing modular, testable, and maintainable code by applying principles like separation of concerns, dependency inversion, and domain-driven design.
+3. Developer Productivity: Exploring tools and workflows that streamline development, including:
+ - GitHub Copilot for intelligent code suggestions,
+ - OpenAPI Generator for auto-generating strongly typed Angular and .NET clients from Swagger specs,
+ - EF Core Migrations for efficient database schema management and versioning.
+4. Data Structures and Algorithms: Practicing DSA regularly to reinforce problem-solving and code optimization skills.
+5. Professional Growth: Staying up to date through hands-on projects, technical communities, and continuous learning opportunities.
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
 
 <!--
 **teena496/teena496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
